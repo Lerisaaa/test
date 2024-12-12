@@ -1,5 +1,5 @@
 local plr           = game:GetService("Players").LocalPlayer
-local reachamount   = 4
+local reachamount   = 7
 local props = {
     size = Vector3.new(1.75, 1.75, 1.75),
     shape = Enum.PartType.Ball,
