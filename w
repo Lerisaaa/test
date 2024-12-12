@@ -84,7 +84,7 @@ local function start(character)
 end
 
 local function newcadded(character)
-    updatetable()
+    update()
     start(character)
 end
 
